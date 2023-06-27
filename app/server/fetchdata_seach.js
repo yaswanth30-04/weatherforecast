@@ -1,6 +1,3 @@
-'use client'
-
-
 
 const fetchdata = (category, formd, key = 'c499d3c8ab6e4de083e112533231306') => {
 

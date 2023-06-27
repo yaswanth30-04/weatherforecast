@@ -1,8 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    images: {
-        domains: ['cdn.weatherapi.com'],
-    },
+    /* config options here */
 }
 
 module.exports = nextConfig
